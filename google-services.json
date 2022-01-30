@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131902843624",
+    "project_id": "kfee-victor",
+    "storage_bucket": "kfee-victor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131902843624:android:96b411907010a81719b75d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_victor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131902843624-2l7r9c26aq7i20c1qo6qneqccf4l9eou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXgxhtPKdvrFo7K3P_ruSlAcQTgKcxwI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131902843624-2l7r9c26aq7i20c1qo6qneqccf4l9eou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
